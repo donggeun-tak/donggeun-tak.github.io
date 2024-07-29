@@ -15,11 +15,11 @@ Quick Links to
 ## First and/or Corresponding Author Publications
  * Impact of Ejecta Temperature and Mass on the Strength of Heavy Element Signatures in Kilonovae   
  *D. Tak, Z. Uhm, and J. Gillanders, 2024, ApJ, 967, 54*   
- *<div><span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/ad3af4" data-style="small_rectangle"></span>, <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...967...54T/abstract">ADS </a></div><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>* 
+ <div><span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/ad3af4" data-style="small_rectangle"></span>, Link to <a href="https://ui.adsabs.harvard.edu/abs/2024ApJ...967...54T/abstract">ADS</a></div><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
  * Exploring the Impact of the Ejecta Velocity Profile on the Evolution of Kilonova: Diversity of the Kilonova Lightcurves   
  *D. Tak, Z. Uhm, and J. Gillanders, 2023, ApJ, 958, 121*   
- *<div><span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/ad06b0" data-style="small_rectangle"></span>, <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...958..121T/abstract">ADS </a></div><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>* 
+ <div><span class="__dimensions_badge_embed__" data-doi="10.3847/1538-4357/ad06b0" data-style="small_rectangle"></span>, <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...958..121T/abstract">ADS </a></div><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 
  * Temporal and Spectral Evolution of Gamma-Ray Burst Broad Pulses: Identification of High-latitude Emission in the Prompt Emission   
  *D. Tak, Z. Uhm, J. Racusin et. al.,, 2023, ApJ, 949, 110*   
