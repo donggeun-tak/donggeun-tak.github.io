@@ -1,24 +1,22 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
 
+[Full version of CV in PDF](/files/cv.pdf)
 
-
-Education
-======
+## Education
 * Ph.D. in Physics, University of Maryland, College Park, 2019  
   * Dissertation: Temporal and Spectral Evolutionary Features of Gamma-ray Bursts Detected by the Fermi Gamma-Ray Space Telescope  
   * Advisor: Dr. Julie McEnery  
 
 * B.S. in Mechanical Engineering and Physics, Sungkyunkwan University, South Korea, 2013  
 
-Work Experience
-======
+## Work Experience
 * Research Professor (Oct. 2024 – Present)  
   * Seoul National University  
   * Mentor: Prof. Myungshin Im  
@@ -39,8 +37,6 @@ Work Experience
   * NASA Goddard Space Flight Center  
   * Mentor: Dr. Julie McEnery
 
-Grants
-======
+## Grants
 * The Sejong Science Fellowship, KRW 500,000,000 (2024-2029)
 
-[Full version of CV in PDF](/cv.pdf)
