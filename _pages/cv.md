@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-[Full version of CV in PDF](/files/cv.pdf)
+[Full version of CV in PDF](/files/CV.pdf)
 
 ## Education
 * Ph.D. in Physics, University of Maryland, College Park, 2019  
