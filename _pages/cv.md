@@ -7,58 +7,40 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D. in Physics, University of Maryland, College Park, 2019  
+  * Dissertation: Temporal and Spectral Evolutionary Features of Gamma-ray Bursts Detected by the Fermi Gamma-Ray Space Telescope  
+  * Advisor: Dr. Julie McEnery  
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* B.S. in Mechanical Engineering and Physics, Sungkyunkwan University, South Korea, 2013  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Work Experience
+======
+* Research Professor (Oct. 2024 – Present)  
+  * Seoul National University  
+  * Mentor: Prof. Myungshin Im  
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Postdoctoral Researcher (Nov. 2022 – Sep. 2024)  
+  * Seoul National University  
+  * Mentors: Dr. Z. Lucas Uhm and Prof. Myungshin Im  
 
-Publications
+* Postdoctoral Fellow (Oct. 2020 – Oct. 2022)  
+  * Deutsches Elektronen-Synchrotron (DESY), Germany  
+  * Mentor: Dr. Elisa Pueschel  
+
+* Research Associate (Jan. 2020 – Jul. 2020)  
+  * NASA Goddard Space Flight Center  
+  * Mentor: Dr. Elizabeth Hays  
+
+* Graduate Researcher (Jun. 2016 – Dec. 2019)  
+  * NASA Goddard Space Flight Center  
+  * Mentor: Dr. Julie McEnery
+
+Grants
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The Sejong Science Fellowship, KRW 500,000,000 (2024-2029)
+
+[Full version of CV in PDF](/cv.pdf)
